@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/akaya_telivigala</item>
+        <item>@font/allerta</item>
+        <item>@font/almendra_bold_italic</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/arizonia</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/charm_bold</item>
+        <item>@font/roboto_mono_italic</item>
+    </array>
+</resources>
