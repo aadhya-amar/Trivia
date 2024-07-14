@@ -1,0 +1,1 @@
+•	This Android quiz app delivers a seamless experience by offering user authentication, quiz categories,leaderboard, an intuitive timer feature, and a captivating spin wheel for the collection of coins.
